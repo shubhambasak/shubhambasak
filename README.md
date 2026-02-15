@@ -75,9 +75,10 @@ Computer Science undergraduate focused on building strong engineering fundamenta
 <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhambasak&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shubhambasak&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambasak&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shubhambasak&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shubhambasak&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambasak&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <br> 
 <hr>
@@ -85,6 +86,10 @@ Computer Science undergraduate focused on building strong engineering fundamenta
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhambasak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=shubhambasak&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
